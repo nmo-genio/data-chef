@@ -253,12 +253,6 @@ pip install -r requirements.txt
 - **ElevenLabs API docs**: [elevenlabs.io/docs](https://elevenlabs.io/docs)
 - **Python virtual environments**: [docs.python.org](https://docs.python.org/3/tutorial/venv.html)
 
-### System Requirements
-- **OS**: macOS, Linux, Windows
-- **Python**: 3.8 or higher
-- **Memory**: 512MB RAM minimum
-- **Storage**: 100MB free space
-- **Network**: Internet connection for API calls
 
 ---
 
