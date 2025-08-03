@@ -11,6 +11,14 @@ A Streamlit application that demonstrates voice-powered data analysis with Eleve
 - **Modern UI**: Clean, minimalist interface with professional styling
 - **Security**: Git hooks and secrets scanning for safe development
 
+## 📸 Application Screenshot
+
+Here's a glimpse of the Data Chef application in action:
+
+![Data Chef UI Screenshot](assets/images/data_chef_ui.png)
+
+*The interface shows a clean, minimalist design with a sidebar for configuration and a main chat area. Users can ask questions like "How was March sales" and receive detailed, chef-themed responses with voice generation capabilities.*
+
 ## Prerequisites
 
 - Python 3.8 or higher (Python 3.13 recommended)
